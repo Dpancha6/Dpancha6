@@ -14,6 +14,8 @@ I'm a software developer with a passion for building scalable web applications a
 
 ⚡ Fun fact: You can't understand recursion without understanding recursion.
 
+![Code](https://github.com/Dpancha6/Dpancha6/assets/89943583/8757bcef-eb52-494f-a2a9-eff76b125e5a)
+
 
 ## Technologies I Work With
 - **Frontend**: JavaScript, TypeScript (React, Angular)
