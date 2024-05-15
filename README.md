@@ -1,34 +1,36 @@
 # Hello, I'm Darshan Panchal! 👋
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    Welcome to my GitHub profile! Here's a glimpse into what I'm currently focusing on and how you can engage with me:
+<div style="display:flex; justify-content:space-between; align-items:flex-start;">
+<div style="flex: 1; margin-right: 20px;">
 
-    I'm a software developer with a passion for building scalable web applications and working on challenging projects that require me to step out of my comfort zone. Here's a little insight into my programming world.
+Welcome to my GitHub profile! Here’s a glimpse into what I'm currently focusing on and how you can engage with me:
 
-    🔭 I'm currently working on enhancing website usability and incorporating efficient, scalable APIs as a Full Stack Software Engineer at Arizona State University.
+I'm a software developer with a passion for building scalable web applications and working on challenging projects that require me to step out of my comfort zone. Here’s a little insight into my programming world.
 
-    🌱 I'm actively learning Advanced React to deepen my expertise in front-end development.
+🔭 I’m currently working on enhancing website usability and incorporating efficient, scalable APIs as a Full Stack Software Engineer at Arizona State University.
 
-    🤔 I'm always looking for effective ways to learn new technologies and refine my skills. Any tips or resources you could share would be greatly appreciated!
+🌱 I’m actively learning Advanced React to deepen my expertise in front-end development.
 
-    💬 Ask me about Python, my experiences with full-stack development, or anything related to tech!
+🤔 I’m always looking for effective ways to learn new technologies and refine my skills. Any tips or resources you could share would be greatly appreciated!
 
-    ⚡ Fun fact: You can't understand recursion without understanding recursion.
+💬 Ask me about Python, my experiences with full-stack development, or anything related to tech!
 
-    ## Technologies I Work With
+⚡ Fun fact: You can't understand recursion without understanding recursion.
 
-    - **Frontend**: JavaScript, TypeScript (React, Angular)
-    - **Backend**: Node.js, Python, Java
-    - **Databases**: MySQL, MongoDB, Postgres
-    - **Cloud and Deployment**: AWS, CI/CD, Azure, S3, EC2
+## Technologies I Work With
+- **Frontend**: JavaScript, TypeScript (React, Angular)
+- **Backend**: Node.js, Python, Java
+- **Databases**: MySQL, MongoDB, Postgres
+- **Cloud and Deployment**: AWS, CI/CD, Azure, S3, EC2
 
-    I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
-  </div>
-  <div style="flex: 0 0 250px;">
-    <img src="https://github.com/Dpancha6/Dpancha6/assets/89943583/8757bcef-eb52-494f-a2a9-eff76b125e5a" width="250" height="250" />
-  </div>
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+
 </div>
+<div>
+<img src="https://github.com/Dpancha6/Dpancha6/assets/89943583/8757bcef-eb52-494f-a2a9-eff76b125e5a" width="250" height="250"/>
+</div>
+</div>
+
 
 # Hello, I'm Darshan Panchal! 👋
 
