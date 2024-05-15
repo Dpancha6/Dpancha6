@@ -17,7 +17,9 @@ I'm a software developer with a passion for building scalable web applications a
 
 ## Technologies I Work With
 - **Frontend**: JavaScript, TypeScript (React, Angular)
-- **Backend**: Node.js, Python
+- **Backend**: Node.js, Python, Java
 - **Databases**: MySQL, MongoDB, Postgres
+- **Cloud and Deployment**•: AWS, CI/CD, Azure, S3, EC2
+
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
