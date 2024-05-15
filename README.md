@@ -1,4 +1,5 @@
-# Hello, I'm Darshan Panchal! 👋
+# Hello, I'm Darshan Panchal! 👋 ![image](https://github.com/Dpancha6/Dpancha6/assets/89943583/f93c00ec-6b19-4a3a-91ad-444af75df87e)
+
 
 <div style="display:flex; justify-content:space-between; align-items:flex-start;">
 <div style="flex: 1; margin-right: 20px;">
@@ -6,6 +7,9 @@
 Welcome to my GitHub profile! Here’s a glimpse into what I'm currently focusing on and how you can engage with me:
 
 I'm a software developer with a passion for building scalable web applications and working on challenging projects that require me to step out of my comfort zone. Here’s a little insight into my programming world.
+  <div style="position: absolute; top: 20px; right: 20px;">
+    <img src="https://github.com/Dpancha6/Dpancha6/assets/89943583/8757bcef-eb52-494f-a2a9-eff76b125e5a" width="250" height="250" />
+  </div>
 
 🔭 I’m currently working on enhancing website usability and incorporating efficient, scalable APIs as a Full Stack Software Engineer at Arizona State University.
 
