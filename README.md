@@ -13,7 +13,7 @@ I'm a software developer with a passion for building scalable web applications a
 💬 Ask me about Python, my experiences with full-stack development, or anything related to tech!
 
 ⚡ Fun fact: You can't understand recursion without understanding recursion.
-
+<img src="https://github.com/Dpancha6/Dpancha6/assets/89943583/8757bcef-eb52-494f-a2a9-eff76b125e5a" width="250" height="250"/>
 ![Code](https://github.com/Dpancha6/Dpancha6/assets/89943583/8757bcef-eb52-494f-a2a9-eff76b125e5a =250x250)
 
 
