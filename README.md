@@ -36,22 +36,3 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 </td>
   </tr>
 </table>
-
-
-<table>
-<tr>
-<td>
-- **Frontend**: JavaScript, TypeScript (React, Angular)
-- **Backend**: Node.js, Python, Java
-- **Databases**: MySQL, MongoDB, Postgres
-- **Cloud and Deployment**: AWS, CI/CD, Azure, S3, EC2
-
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
-</td>
-<td>
-
-<img src="https://github.com/Dpancha6/Dpancha6/assets/89943583/8757bcef-eb52-494f-a2a9-eff76b125e5a" width="250" height="250"/>
-
-</td>
-</tr>
-</table>
