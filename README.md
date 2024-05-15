@@ -17,7 +17,8 @@ Here’s a little insight into my programming world.
 </td>
 </tr>
 <tr>
-<td>🔭 I’m currently working on enhancing website usability and incorporating 
+    <td colspan="2">
+🔭 I’m currently working on enhancing website usability and incorporating 
 efficient, scalable APIs as a Full Stack Software Engineer at Arizona State University.
 
 🌱 I’m actively learning Advanced React to deepen my expertise in front-end development.
