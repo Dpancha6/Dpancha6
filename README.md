@@ -1,8 +1,10 @@
 # Hello, I'm Darshan Panchal! 👋 Welcome to my GitHub profile! 
 
+Here's a glimpse into what I'm currently focusing on and how you can engage with me:
+
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    Here's a glimpse into what I'm currently focusing on and how you can engage with me: I'm a software developer with a passion for building scalable web applications and working on challenging projects that require me to step out of my comfort zone. Here's a little insight into my programming world.
+    I'm a software developer with a passion for building scalable web applications and working on challenging projects that require me to step out of my comfort zone. Here's a little insight into my programming world.
 
     🔭 I'm currently working on enhancing website usability and incorporating efficient, scalable APIs as a Full Stack Software Engineer at Arizona State University.
 
@@ -27,7 +29,6 @@
 - **Cloud and Deployment**: AWS, CI/CD, Azure, S3, EC2
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
-
 
 # Hello, I'm Darshan Panchal! 👋
 
