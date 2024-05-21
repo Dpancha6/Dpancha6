@@ -23,10 +23,11 @@ Any tips or resources you could share would be greatly appreciated!
 <table>
   <tr>
     <td>
-
-**Frontend**: JavaScript, TypeScript (React, Angular)<br>
-**Backend**: Node.js, Python, Java<br>
-**Databases**: MySQL, MongoDB, Postgres<br>
+      
+**Programming Languages**: Python, Java, JavaScript, TypeScript<br>
+**Frontend**: React, Angular, Redux, Tailwind, Figma<br>
+**Backend**: Node.js, Django, Flask, Spring, REST APIs, WebSocket<br>
+**Databases**: MySQL, MongoDB, Postgres (RDBMS)<br>
 **Cloud and Deployment**: AWS, CI/CD, Azure, S3, EC2<br><br>
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
